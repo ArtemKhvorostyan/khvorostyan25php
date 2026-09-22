@@ -8,4 +8,4 @@
     phpinfo();
 ?>
 
-![виконання скрипта](/screenshot.png)
+![скріншот](/screenshot.png)
