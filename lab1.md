@@ -1,13 +1,12 @@
 # Лабораторна робота №1
 
-## Код програми
+## PHP-код
 
-```php
+```
 <?php
-    echo "<h1>Hello world! Це моя перша PHP-програма.</h1>";
+    echo "<h1>Hello World! Це моя перша php-програма.</h1>";
     phpinfo();
 ?>
+```
 
-![скріншот](/screenshot.png)
-
-##
+![виконання скрипта](screenshot.png)
